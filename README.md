@@ -1,2 +1,2 @@
 # demo
-This is first repo just to understand functioning of Github
+This is first repo just to understand basic functioning of Github
